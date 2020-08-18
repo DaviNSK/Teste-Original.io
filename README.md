@@ -8,3 +8,7 @@ VAGA JUNIOR FRONT-END;
 -criei uma fake Api mas para subir para o netlifly nāo é possivel, entao coloquei todos os dados no Redux;
 
 -utilizei o styled-components para estilizar.
+
+
+#LINK DO SITE:
+https://determined-sammet-c1ee6e.netlify.app
